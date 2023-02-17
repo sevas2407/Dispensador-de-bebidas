@@ -1,2 +1,2 @@
-# Dispensador-de-bebidas
-Sistema de dispensador de bebidas 
+# Sistema Dispensador-de-bebidas
+Machine allow for distribution of any drinks, but depend of amount repositorys for all drinks.
